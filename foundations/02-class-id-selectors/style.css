@@ -1,0 +1,19 @@
+.oddRow {
+    background-color: rgb(255, 188, 188);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.larger {
+    font-size: 24px;
+}
+
+#row2 {
+    color: rgb(36, 36, 173);
+    font-size: 36px;
+}
+
+#row4 {
+    background-color: #beffb8;
+    font-size: 24px;
+    font-weight: bold;
+}
